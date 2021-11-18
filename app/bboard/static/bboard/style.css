@@ -2,7 +2,8 @@ header hl {
     font-size: 40pt;
     text-transform: uppercase;
     text-align: center;
-    background: url("bg.jpg") left / auto 100% no-repeat;
+    background: navy;
+
 }
 
 nav {
@@ -15,5 +16,5 @@ nav a {
     margin: 10px 0px;
 }
 section {
-    margin-left: 170px;
+    margin-left: 190px;
 }
